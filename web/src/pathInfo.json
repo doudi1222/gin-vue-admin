@@ -82,5 +82,9 @@
   "/src/view/systemTools/version/version.vue": "SysVersion",
   "/src/plugin/announcement/form/info.vue": "InfoForm",
   "/src/plugin/announcement/view/info.vue": "Info",
+  "/src/plugin/course/view/courseDetail.vue": "CourseDetail",
+  "/src/plugin/course/view/courseLearn.vue": "CourseLearn",
+  "/src/plugin/course/view/courseList.vue": "CourseList",
+  "/src/plugin/course/view/myCourses.vue": "MyCourses",
   "/src/plugin/email/view/index.vue": "Email"
 }
